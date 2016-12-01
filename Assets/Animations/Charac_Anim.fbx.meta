@@ -1,0 +1,1263 @@
+fileFormatVersion: 2
+guid: f40fd98744a4f4c22bb6e8553f7cb28a
+timeCreated: 1478827214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bodyGEO
+    100002: camera1
+    100004: //RootNode
+    100006: controlsGRP
+    100008: geometryGRP
+    100010: head02_j
+    100012: head_CTRL
+    100014: head_j
+    100016: ikHandle1
+    100018: ikHandle2
+    100020: ikHandle3
+    100022: ikHandle4
+    100024: ikHandle5
+    100026: ikHandle6
+    100028: joint1
+    100030: joint10
+    100032: joint2
+    100034: joint3
+    100036: joint4
+    100038: joint5
+    100040: joint6
+    100042: joint7
+    100044: joint8
+    100046: joint9
+    100048: L01_eyrBrow_CTRL
+    100050: L02_eyrBrow_CTRL
+    100052: L_ankle_j
+    100054: L_ball_j
+    100056: L_eye_GEO
+    100058: L_foot_CTRL
+    100060: L_hip_j
+    100062: L_index01_j
+    100064: L_index02_j
+    100066: L_index03_j
+    100068: L_knee_CTRL
+    100070: L_knee_j
+    100072: L_middle01_j
+    100074: L_middle02_j
+    100076: L_middle03_j
+    100078: L_pinky01_j
+    100080: L_pinky02_j
+    100082: L_pinky03_j
+    100084: L_ring01_j
+    100086: L_ring02_j
+    100088: L_ring03_j
+    100090: L_toe_j
+    100092: Mid_eyrBrow_CTRL
+    100094: MontyGRP
+    100096: MontyMAINGRP2
+    100098: noTouchy_GRP
+    100100: placementNode_CTRL
+    100102: placementNodeCircle_CTRL
+    100104: R01_eyrBrow_CTRL
+    100106: R02_eyrBrow_CTRL
+    100108: R_ankle_j
+    100110: R_ball_j
+    100112: R_eye_GEO
+    100114: R_foot_CTRL
+    100116: R_hip_j
+    100118: R_index01_j
+    100120: R_index02_j
+    100122: R_index03_j
+    100124: R_knee_CTRL
+    100126: R_knee_j
+    100128: R_middle01_j
+    100130: R_middle02_j
+    100132: R_middle03_j
+    100134: R_pinky01_j
+    100136: R_pinky02_j
+    100138: R_pinky03_j
+    100140: R_ring01_j
+    100142: R_ring02_j
+    100144: R_ring03_j
+    100146: R_toe_j
+    100148: RF_L_ankle_j1
+    100150: RF_L_ball_j
+    100152: RF_L_heel_j
+    100154: RF_L_toe_j
+    100156: RF_R_ankle_j1
+    100158: RF_R_ball_j
+    100160: RF_R_heel_j
+    100162: RF_R_toe_j
+    100164: root_CTRL
+    100166: root_j
+    100168: squash1Handle
+    100170: squash_CTRL
+    100172: squash_GRP
+    100174: group1
+    100176: body_GEO
+    100178: controls_GRP
+    100180: geometry_GRP
+    100182: Monty_GRP
+    100184: MontyMAIN_GRP
+    100186: body_GEO 1
+    100188: controls_GRP 1
+    100190: geometry_GRP 1
+    100192: head02_j 1
+    100194: head_CTRL 1
+    100196: head_j 1
+    100198: ikHandle1 1
+    100200: ikHandle2 1
+    100202: ikHandle3 1
+    100204: ikHandle4 1
+    100206: ikHandle5 1
+    100208: ikHandle6 1
+    100210: joint1 1
+    100212: joint10 1
+    100214: joint2 1
+    100216: joint3 1
+    100218: joint4 1
+    100220: joint5 1
+    100222: joint6 1
+    100224: joint7 1
+    100226: joint8 1
+    100228: joint9 1
+    100230: L01_eyrBrow_CTRL 1
+    100232: L02_eyrBrow_CTRL 1
+    100234: L_ankle_j 1
+    100236: L_ball_j 1
+    100238: L_eye_GEO 1
+    100240: L_foot_CTRL 1
+    100242: L_hip_j 1
+    100244: L_index01_j 1
+    100246: L_index02_j 1
+    100248: L_index03_j 1
+    100250: L_knee_CTRL 1
+    100252: L_knee_j 1
+    100254: L_middle01_j 1
+    100256: L_middle02_j 1
+    100258: L_middle03_j 1
+    100260: L_pinky01_j 1
+    100262: L_pinky02_j 1
+    100264: L_pinky03_j 1
+    100266: L_ring01_j 1
+    100268: L_ring02_j 1
+    100270: L_ring03_j 1
+    100272: L_toe_j 1
+    100274: Mid_eyrBrow_CTRL 1
+    100276: Monty_GRP 1
+    100278: MontyMAIN_GRP1
+    100280: noTouchy_GRP 1
+    100282: placementNode_CTRL 1
+    100284: placementNodeCircle_CTRL 1
+    100286: R01_eyrBrow_CTRL 1
+    100288: R02_eyrBrow_CTRL 1
+    100290: R_ankle_j 1
+    100292: R_ball_j 1
+    100294: R_eye_GEO 1
+    100296: R_foot_CTRL 1
+    100298: R_hip_j 1
+    100300: R_index01_j 1
+    100302: R_index02_j 1
+    100304: R_index03_j 1
+    100306: R_knee_CTRL 1
+    100308: R_knee_j 1
+    100310: R_middle01_j 1
+    100312: R_middle02_j 1
+    100314: R_middle03_j 1
+    100316: R_pinky01_j 1
+    100318: R_pinky02_j 1
+    100320: R_pinky03_j 1
+    100322: R_ring01_j 1
+    100324: R_ring02_j 1
+    100326: R_ring03_j 1
+    100328: R_toe_j 1
+    100330: RF_L_ankle_j1 1
+    100332: RF_L_ball_j 1
+    100334: RF_L_heel_j 1
+    100336: RF_L_toe_j 1
+    100338: RF_R_ankle_j1 1
+    100340: RF_R_ball_j 1
+    100342: RF_R_heel_j 1
+    100344: RF_R_toe_j 1
+    100346: root_CTRL 1
+    100348: root_j 1
+    100350: squash1Handle 1
+    100352: squash_CTRL 1
+    100354: squash_GRP 1
+    400000: bodyGEO
+    400002: camera1
+    400004: //RootNode
+    400006: controlsGRP
+    400008: geometryGRP
+    400010: head02_j
+    400012: head_CTRL
+    400014: head_j
+    400016: ikHandle1
+    400018: ikHandle2
+    400020: ikHandle3
+    400022: ikHandle4
+    400024: ikHandle5
+    400026: ikHandle6
+    400028: joint1
+    400030: joint10
+    400032: joint2
+    400034: joint3
+    400036: joint4
+    400038: joint5
+    400040: joint6
+    400042: joint7
+    400044: joint8
+    400046: joint9
+    400048: L01_eyrBrow_CTRL
+    400050: L02_eyrBrow_CTRL
+    400052: L_ankle_j
+    400054: L_ball_j
+    400056: L_eye_GEO
+    400058: L_foot_CTRL
+    400060: L_hip_j
+    400062: L_index01_j
+    400064: L_index02_j
+    400066: L_index03_j
+    400068: L_knee_CTRL
+    400070: L_knee_j
+    400072: L_middle01_j
+    400074: L_middle02_j
+    400076: L_middle03_j
+    400078: L_pinky01_j
+    400080: L_pinky02_j
+    400082: L_pinky03_j
+    400084: L_ring01_j
+    400086: L_ring02_j
+    400088: L_ring03_j
+    400090: L_toe_j
+    400092: Mid_eyrBrow_CTRL
+    400094: MontyGRP
+    400096: MontyMAINGRP2
+    400098: noTouchy_GRP
+    400100: placementNode_CTRL
+    400102: placementNodeCircle_CTRL
+    400104: R01_eyrBrow_CTRL
+    400106: R02_eyrBrow_CTRL
+    400108: R_ankle_j
+    400110: R_ball_j
+    400112: R_eye_GEO
+    400114: R_foot_CTRL
+    400116: R_hip_j
+    400118: R_index01_j
+    400120: R_index02_j
+    400122: R_index03_j
+    400124: R_knee_CTRL
+    400126: R_knee_j
+    400128: R_middle01_j
+    400130: R_middle02_j
+    400132: R_middle03_j
+    400134: R_pinky01_j
+    400136: R_pinky02_j
+    400138: R_pinky03_j
+    400140: R_ring01_j
+    400142: R_ring02_j
+    400144: R_ring03_j
+    400146: R_toe_j
+    400148: RF_L_ankle_j1
+    400150: RF_L_ball_j
+    400152: RF_L_heel_j
+    400154: RF_L_toe_j
+    400156: RF_R_ankle_j1
+    400158: RF_R_ball_j
+    400160: RF_R_heel_j
+    400162: RF_R_toe_j
+    400164: root_CTRL
+    400166: root_j
+    400168: squash1Handle
+    400170: squash_CTRL
+    400172: squash_GRP
+    400174: group1
+    400176: body_GEO
+    400178: controls_GRP
+    400180: geometry_GRP
+    400182: Monty_GRP
+    400184: MontyMAIN_GRP
+    400186: body_GEO 1
+    400188: controls_GRP 1
+    400190: geometry_GRP 1
+    400192: head02_j 1
+    400194: head_CTRL 1
+    400196: head_j 1
+    400198: ikHandle1 1
+    400200: ikHandle2 1
+    400202: ikHandle3 1
+    400204: ikHandle4 1
+    400206: ikHandle5 1
+    400208: ikHandle6 1
+    400210: joint1 1
+    400212: joint10 1
+    400214: joint2 1
+    400216: joint3 1
+    400218: joint4 1
+    400220: joint5 1
+    400222: joint6 1
+    400224: joint7 1
+    400226: joint8 1
+    400228: joint9 1
+    400230: L01_eyrBrow_CTRL 1
+    400232: L02_eyrBrow_CTRL 1
+    400234: L_ankle_j 1
+    400236: L_ball_j 1
+    400238: L_eye_GEO 1
+    400240: L_foot_CTRL 1
+    400242: L_hip_j 1
+    400244: L_index01_j 1
+    400246: L_index02_j 1
+    400248: L_index03_j 1
+    400250: L_knee_CTRL 1
+    400252: L_knee_j 1
+    400254: L_middle01_j 1
+    400256: L_middle02_j 1
+    400258: L_middle03_j 1
+    400260: L_pinky01_j 1
+    400262: L_pinky02_j 1
+    400264: L_pinky03_j 1
+    400266: L_ring01_j 1
+    400268: L_ring02_j 1
+    400270: L_ring03_j 1
+    400272: L_toe_j 1
+    400274: Mid_eyrBrow_CTRL 1
+    400276: Monty_GRP 1
+    400278: MontyMAIN_GRP1
+    400280: noTouchy_GRP 1
+    400282: placementNode_CTRL 1
+    400284: placementNodeCircle_CTRL 1
+    400286: R01_eyrBrow_CTRL 1
+    400288: R02_eyrBrow_CTRL 1
+    400290: R_ankle_j 1
+    400292: R_ball_j 1
+    400294: R_eye_GEO 1
+    400296: R_foot_CTRL 1
+    400298: R_hip_j 1
+    400300: R_index01_j 1
+    400302: R_index02_j 1
+    400304: R_index03_j 1
+    400306: R_knee_CTRL 1
+    400308: R_knee_j 1
+    400310: R_middle01_j 1
+    400312: R_middle02_j 1
+    400314: R_middle03_j 1
+    400316: R_pinky01_j 1
+    400318: R_pinky02_j 1
+    400320: R_pinky03_j 1
+    400322: R_ring01_j 1
+    400324: R_ring02_j 1
+    400326: R_ring03_j 1
+    400328: R_toe_j 1
+    400330: RF_L_ankle_j1 1
+    400332: RF_L_ball_j 1
+    400334: RF_L_heel_j 1
+    400336: RF_L_toe_j 1
+    400338: RF_R_ankle_j1 1
+    400340: RF_R_ball_j 1
+    400342: RF_R_heel_j 1
+    400344: RF_R_toe_j 1
+    400346: root_CTRL 1
+    400348: root_j 1
+    400350: squash1Handle 1
+    400352: squash_CTRL 1
+    400354: squash_GRP 1
+    2300000: L_eye_GEO
+    2300002: R_eye_GEO
+    2300004: L_eye_GEO 1
+    2300006: R_eye_GEO 1
+    3300000: L_eye_GEO
+    3300002: R_eye_GEO
+    3300004: L_eye_GEO 1
+    3300006: R_eye_GEO 1
+    4300000: L_eye_GEO
+    4300002: R_eye_GEO
+    4300004: body_GEO
+    4300006: L_eye_GEO
+    4300008: R_eye_GEO
+    7400000: Take 001
+    7400002: Take 0010
+    7400004: Take 0011
+    7400006: Take 0012
+    9500000: //RootNode
+    13700000: body_GEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: MontyMAIN_GRP
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: MontyMAIN_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/L_knee_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/ikHandle3
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/ikHandle2
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1/ikHandle1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/placementNodeCircle_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/R_knee_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/ikHandle6
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/ikHandle5
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1/ikHandle4
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L01_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L02_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/Mid_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R01_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R02_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/squash_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/geometry_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/geometry_GRP/body_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/head02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint6
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint6/joint5
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint7
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint7/joint4
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint8
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint8/joint1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint9
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint9/joint2
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint10
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint10/joint3
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/L_eye_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/R_eye_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j/L_index03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j/L_middle03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j/L_pinky03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j/L_ring03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j/R_index03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j/R_middle03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j/R_pinky03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j/R_ring03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP/squash_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP/squash_GRP/squash1Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: MontyMAIN_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/L_knee_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/ikHandle3
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/ikHandle2
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1/ikHandle1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/placementNodeCircle_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/R_knee_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/ikHandle6
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/ikHandle5
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1/ikHandle4
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L01_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L02_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/Mid_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R01_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R02_eyrBrow_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/squash_CTRL
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/geometry_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/geometry_GRP/body_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/head02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint6
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint6/joint5
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint7
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint7/joint4
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint8
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint8/joint1
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint9
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint9/joint2
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint10
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/joint10/joint3
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/L_eye_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/head_j/R_eye_GEO
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j/L_index03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j/L_middle03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j/L_pinky03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j/L_ring03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j/R_index03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j/R_middle03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j/R_pinky03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j/R_ring03_j
+        weight: 1
+      - path: MontyMAIN_GRP/Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_toe_j
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP/squash_GRP
+        weight: 1
+      - path: MontyMAIN_GRP/noTouchy_GRP/squash_GRP/squash1Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Take 0011
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: collider height
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 2
+            outSlope: 2
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monty_GRP
+        weight: 1
+      - path: Monty_GRP/controls_GRP
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/L_knee_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/ikHandle3
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/ikHandle2
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1/ikHandle1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/placementNodeCircle_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/R_knee_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/ikHandle6
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/ikHandle5
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1/ikHandle4
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L01_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L02_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/Mid_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R01_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R02_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/squash_CTRL
+        weight: 1
+      - path: Monty_GRP/geometry_GRP
+        weight: 1
+      - path: Monty_GRP/geometry_GRP/body_GEO
+        weight: 1
+      - path: Monty_GRP/root_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/head02_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint6
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint6/joint5
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint7
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint7/joint4
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint8
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint8/joint1
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint9
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint9/joint2
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint10
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint10/joint3
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/L_eye_GEO
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/R_eye_GEO
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j/L_index03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j/L_middle03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j/L_pinky03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j/L_ring03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_toe_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j/R_index03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j/R_middle03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j/R_pinky03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j/R_ring03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_toe_j
+        weight: 1
+      - path: noTouchy_GRP
+        weight: 1
+      - path: noTouchy_GRP/squash_GRP
+        weight: 1
+      - path: noTouchy_GRP/squash_GRP/squash1Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    - serializedVersion: 16
+      name: Take 0012
+      takeName: Take 001
+      firstFrame: 93
+      lastFrame: 132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monty_GRP
+        weight: 1
+      - path: Monty_GRP/controls_GRP
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/L_knee_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/ikHandle3
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/ikHandle2
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/L_foot_CTRL/RF_L_heel_j/RF_L_toe_j/RF_L_ball_j/RF_L_ankle_j1/ikHandle1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/placementNodeCircle_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/R_knee_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/ikHandle6
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/ikHandle5
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/R_foot_CTRL/RF_R_heel_j/RF_R_toe_j/RF_R_ball_j/RF_R_ankle_j1/ikHandle4
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L01_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/L02_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/Mid_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R01_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/R02_eyrBrow_CTRL
+        weight: 1
+      - path: Monty_GRP/controls_GRP/placementNode_CTRL/root_CTRL/head_CTRL/squash_CTRL
+        weight: 1
+      - path: Monty_GRP/geometry_GRP
+        weight: 1
+      - path: Monty_GRP/geometry_GRP/body_GEO
+        weight: 1
+      - path: Monty_GRP/root_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/head02_j
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint6
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint6/joint5
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint7
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint7/joint4
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint8
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint8/joint1
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint9
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint9/joint2
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint10
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/joint10/joint3
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/L_eye_GEO
+        weight: 1
+      - path: Monty_GRP/root_j/head_j/R_eye_GEO
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_index01_j/L_index02_j/L_index03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_middle01_j/L_middle02_j/L_middle03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_pinky01_j/L_pinky02_j/L_pinky03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_ring01_j/L_ring02_j/L_ring03_j
+        weight: 1
+      - path: Monty_GRP/root_j/L_hip_j/L_knee_j/L_ankle_j/L_ball_j/L_toe_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_index01_j/R_index02_j/R_index03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_middle01_j/R_middle02_j/R_middle03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_pinky01_j/R_pinky02_j/R_pinky03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_ring01_j/R_ring02_j/R_ring03_j
+        weight: 1
+      - path: Monty_GRP/root_j/R_hip_j/R_knee_j/R_ankle_j/R_ball_j/R_toe_j
+        weight: 1
+      - path: noTouchy_GRP
+        weight: 1
+      - path: noTouchy_GRP/squash_GRP
+        weight: 1
+      - path: noTouchy_GRP/squash_GRP/squash1Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.96
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Monty_GRP
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
