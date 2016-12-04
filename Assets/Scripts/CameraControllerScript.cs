@@ -9,7 +9,7 @@ public class CameraController : MonoBehaviour {
 	public float xTilt = 10;
 
 	Vector3 destination = Vector3.zero;
-	CharacterController charController;
+	CharacterControllerScript charController;
 	float rotateVel = 0;
 
 
@@ -27,8 +27,8 @@ public class CameraController : MonoBehaviour {
 		target = t;
 
 		if (target != null) {
-			if (target.GetComponent<CharacterController> ()) {
-				charController = target.GetComponent<CharacterController> ();
+			if (target.GetComponent<CharacterControllerScript> ()) {
+				charController = target.GetComponent<CharacterControllerScript> ();
 			} else
 				Debug.Log ("camera's target needs a character controller");
 
