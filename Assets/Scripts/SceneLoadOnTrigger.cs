@@ -3,20 +3,26 @@ using System.Collections;
 using UnityEngine.SceneManagement;
 
 public class SceneLoadOnTrigger: MonoBehaviour {
+	public string levelToLoad = "PoemScene";
+	public float timer = 5f;
+
 
 	//public string currentScene;
 
 
-	// Use this for initialization
-	void Start () {
-	
+
+	IEnumerator WaitToLoad(){
+		yield return new WaitForSeconds(timer);
+		SceneManager.LoadScene(levelToLoad);
 	}
+
 	
 	// Update is called once per frame
 	void OnTriggerEnter (Collider other) {
 
 		if (other.CompareTag("Player"))
-			SceneManager.LoadScene ("PoemScene");
+			StartCoroutine(WaitToLoad());
+			//SceneManager.LoadScene (levelToLoad);
 	
 	}
 }

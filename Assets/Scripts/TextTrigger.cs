@@ -8,6 +8,7 @@ public class TextTrigger : MonoBehaviour {
 	public GameObject canvas;
 	private FadeCanvas fader;
 	public UIManager textManager;
+	[TextArea(3,10)]
 	public string newText;
 
 	void Start(){

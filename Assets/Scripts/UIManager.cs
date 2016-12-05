@@ -12,7 +12,7 @@ public class UIManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		displayText = "text";
+		//displayText = "text";
 	}
 	
 	// Update is called once per frame

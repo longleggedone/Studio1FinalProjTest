@@ -7,6 +7,7 @@ public class PoemTrigger : MonoBehaviour {
 	public GameObject canvas;
 	private FadeCanvas fader;
 	public UIManager textManager;
+	[TextArea(3,10)]
 	public string newText;
 
 	void Awake(){
@@ -17,7 +18,7 @@ public class PoemTrigger : MonoBehaviour {
 		textManager.displayText = newText;
 		//Debug.Log("Enter");
 		fader.FadeIn();
-
+		Debug.Log (newText);
 	}
 
 
