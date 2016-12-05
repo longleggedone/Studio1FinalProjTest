@@ -25,6 +25,7 @@ public class CharacterControllerScript: MonoBehaviour {
 		public string JUMP_AXIS = "Jump";
 	}
 
+	public AudioClip jumpAudio;
 
 	public MoveSettings moveSetting = new MoveSettings();
 	public PhysSettings physSetting = new PhysSettings();
